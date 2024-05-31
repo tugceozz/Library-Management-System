@@ -8,7 +8,7 @@ This is a simple library management system implemented in Python using Tkinter f
 - **Add Book**: Allows users to add a new book to the library by providing the title, author, release year, and number of pages.
 - **Remove Book**: Enables users to remove a book from the library by providing its title.
 
-##
+## ScreenShots 📸
 
 ![1](https://github.com/tugceozz/Library-Management-System/assets/114016610/07dfdf80-8783-4efd-8d57-dc03359d9c6f)
 
